@@ -1,0 +1,6 @@
+{
+  "name": "ZYRA",
+  "description": "Modern dark-themed social media app to share moments and connect hearts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
